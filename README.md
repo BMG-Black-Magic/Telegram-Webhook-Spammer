@@ -1,5 +1,6 @@
 Have you ever came across a telegram webhook being used in a piece of malware?
-Send them the bee movie much love
+Send them the bee movie.
+much love :3
 - qmvt
     
       Clone the repository:
